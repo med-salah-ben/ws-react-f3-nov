@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ws-react-f3-nov/static/css/main.485d95c6.css",
+    "main.js": "/ws-react-f3-nov/static/js/main.8dca10ef.js",
+    "static/media/back.jpg": "/ws-react-f3-nov/static/media/back.3084bcd54a0432236fcb.jpg",
+    "index.html": "/ws-react-f3-nov/index.html",
+    "main.485d95c6.css.map": "/ws-react-f3-nov/static/css/main.485d95c6.css.map",
+    "main.8dca10ef.js.map": "/ws-react-f3-nov/static/js/main.8dca10ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.485d95c6.css",
+    "static/js/main.8dca10ef.js"
+  ]
+}
